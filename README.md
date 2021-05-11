@@ -1,2 +1,11 @@
-# ovh_stresser
-For the starters, here we have the OVH code stresser... u can download it for free from here &lt;3
+#OVH STRESSER
+
+Tutorial, how to install and user OVH Stresser
+
+1. Download pyhton2
+Use the folowing commands in your terminal
+$ apt update
+$ apt install python2
+
+2. Use the archive
+perl ohv.pl <IP>
